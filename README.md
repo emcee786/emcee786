@@ -6,7 +6,7 @@ I'm a Software Engineering grad and current Data Science postgrad, shifting from
 ### 🛠️ Tech I’ve been working with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dotnet,flask" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,dotnet,flask" />
   <img src="https://skillicons.dev/icons?i=git,github,figma,mysql" />
 </p>
 
