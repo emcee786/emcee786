@@ -4,4 +4,3 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/emcee786/count.svg" alt="Visitor's Count" />
 </div>
-
