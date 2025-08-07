@@ -16,8 +16,4 @@ I'm a Software Engineering grad and current Data Science postgrad, shifting from
   <img src="https://img.shields.io/badge/Prefect-0A1E3F?style=for-the-badge&logo=prefect&logoColor=white" />
 </p>
 
-## ⚡️ Stats
 
-<br>
-<hr>
----
